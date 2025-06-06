@@ -166,9 +166,7 @@ Cumulative Transactions = CALCULATE([Total Transactions], FILTER( ALLSELECTED(Da
 
 ```
 ## Dynamic Currency Switch
-![Image](https://github.com/user-attachments/assets/7e6a55a3-0984-4d71-8718-3e98275ec2df)
-
-![Image](https://github.com/user-attachments/assets/3571009d-f404-4aa2-b28b-d6ccf8e02c46)
+![Image](https://github.com/user-attachments/assets/7e6a55a3-0984-4d71-8718-3e98275ec2df) ![Image](https://github.com/user-attachments/assets/3571009d-f404-4aa2-b28b-d6ccf8e02c46)
 
 ---
 
