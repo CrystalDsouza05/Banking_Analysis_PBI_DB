@@ -1,0 +1,14 @@
+{
+
+"name": "Banking",
+
+"dataColors": [ "#0D0D0D", "#737373", "#BFBFBF", "#F2F2F2", "#F20505", "#F2E1AE", "#048ABF", 
+"#011140" ],
+
+"background":"#FFFFFF",
+
+"foreground": "#1b7eac",
+
+"tableAccent":"#5cbae5"
+
+}
